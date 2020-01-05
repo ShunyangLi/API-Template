@@ -52,7 +52,7 @@ We require python3.6 or higher version and sqlite3. Please install python3, pip3
 
 We already solve this issue, just learn about that.
 
-The fisrt method is config the app after request.
+The first method is config the app after request.
 
 ```python
 # Configuring cors requests
@@ -65,7 +65,7 @@ def after_request(response):
 
 ```
 
-The sencond methos is using the package`flask_cors` (used in template)：
+The second method is using the package`flask_cors` (used in template)：
 
 ```python
 from flask import Flask
