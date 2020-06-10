@@ -10,6 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 jsonschema==3.2.0
 MarkupSafe==1.1.1
+PyJWT==1.7.1
 pyrsistent==0.16.0
 pytz==2020.1
 six==1.15.0
