@@ -7,7 +7,7 @@ Flask-RESTful==0.3.8
 flask-restplus==0.13.0
 importlib-metadata==1.6.1
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==3.2.0
 MarkupSafe==1.1.1
 PyJWT==1.7.1
